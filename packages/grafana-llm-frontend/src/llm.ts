@@ -544,7 +544,7 @@ export enum StreamStatus {
  * A constant representing the timeout value in milliseconds.
  * @type {number}
  */
-export const TIMEOUT = 10000;
+export const TIMEOUT = 60000;
 
 /**
  * A type representing the state of an LLM stream.
